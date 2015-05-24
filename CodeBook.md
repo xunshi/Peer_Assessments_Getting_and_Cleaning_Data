@@ -8,6 +8,21 @@ The data were collected from the accelerometers from the Samsung Galaxy S smartp
 
 [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://)
 
+Variables calculated:
+
+**X** -- Merged data set of "train/X_train.txt" and "test/X_test.txt"
+
+**subject** -- Merged data set of "train/subject_train.txt" and "test/subject_test.txt"
+
+**Y** -- Merged data set of "train/y_train.txt" and "test/y_test.txt"
+
+**features_mean_sd** -- index of the measurements on the mean and standard deviation for each measurement
+
+**data** -- merged and clean data set
+
+**average** -- a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+
 ##Data Set Information:
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
