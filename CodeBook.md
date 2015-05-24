@@ -8,7 +8,7 @@ The data were collected from the accelerometers from the Samsung Galaxy S smartp
 
 [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://)
 
-Variables calculated:
+##Variables calculated
 
 **X** -- Merged data set of "train/X_train.txt" and "test/X_test.txt"
 
@@ -20,7 +20,7 @@ Variables calculated:
 
 **data** -- merged and clean data set
 
-**average** -- a second, independent tidy data set with the average of each variable for each activity and each subject.
+**average** -- a second, independent tidy data set with the average of each variable for each activity and each subject
 
 
 ##Data Set Information:
