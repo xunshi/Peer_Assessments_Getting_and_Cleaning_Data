@@ -8,7 +8,7 @@ The data were collected from the accelerometers from the Samsung Galaxy S smartp
 
 [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://)
 
-##Variables calculated
+##Variables calculated:
 
 **X** -- Merged data set of "train/X_train.txt" and "test/X_test.txt"
 
